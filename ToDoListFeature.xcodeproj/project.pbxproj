@@ -47,13 +47,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		85A401C32B3000A800214FAA /* DraggingInfo */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = DraggingInfo;
-			sourceTree = "<group>";
-		};
 		85CCFA7C2B29811100C100EC = {
 			isa = PBXGroup;
 			children = (
@@ -77,7 +70,6 @@
 				85CCFA882B29811100C100EC /* ToDoListFeatureApp.swift */,
 				85CCFA982B29813A00C100EC /* MainView */,
 				85CCFA9D2B29813A00C100EC /* KanbanView */,
-				85A401C32B3000A800214FAA /* DraggingInfo */,
 				85CCFA9A2B29813A00C100EC /* AddTask */,
 				85CCFAA12B29813A00C100EC /* DataModel */,
 				85CCFAB72B29828800C100EC /* Preview Content */,
